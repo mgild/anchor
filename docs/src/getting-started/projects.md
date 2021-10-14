@@ -5,6 +5,7 @@ Open a pull request to add your project to the [list](https://github.com/project
 * [Serum](https://github.com/project-serum)
 * [Synthetify](https://github.com/Synthetify)
 * [SolFarm](https://solfarm.io/)
+* [Switchboard](https://switchboard.xyz/)
 * [Zeta Markets](https://zeta.markets/)
 * [Saber](https://saber.so)
 * [01](https://01protocol.com/)
